@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/evangridley/code/leetcode/two_sums/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++14 -o CMakeFiles/two_sums.dir/solution.cpp.o -c /Users/evangridley/code/leetcode/two_sums/solution.cpp",
+  "file": "/Users/evangridley/code/leetcode/two_sums/solution.cpp"
+}
+]
